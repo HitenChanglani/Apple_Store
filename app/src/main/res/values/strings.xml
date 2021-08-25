@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">InClass05</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="loginButton">Login</string>
+    <string name="createNewAccountLabel">Create New Account</string>
+    <string name="nameHint">Name</string>
+    <string name="cancel">Cancel</string>
+    <string name="submitButton">Submit</string>
+    <string name="registerAccountTitle">Register Account</string>
+    <string name="loginTitle">Login</string>
+    <string name="appDetailsTitle">App Details</string>
+    <string name="appCategoriesTitle">App Categories</string>
+    <string name="logoutButton">Logout</string>
+    <string name="mandatoryFields">All fields are mandatory!</string>
+    <string name="invalidEmail">Invalid Email</string>
+    <string name="invalidCredentials">Invalid Credentials</string>
+    <string name="usedEmail">Email already exists!</string>
+    <string name="welcomeLabel" />
+    <string name="appNameDetails" />
+    <string name="artistNameDetails" />
+    <string name="releaseDateDetails" />
+    <string name="genreDetails">Genres</string>
+    <string name="appNameLayout" />
+    <string name="artistNameLayout" />
+    <string name="releaseDateLayout" />
+</resources>
